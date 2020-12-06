@@ -1,0 +1,30 @@
+{
+  "name": "Velements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "clean": "rm -rf dist/*",
+    "build:parcel": "parcel build src/index.html --no-content-hash --no-minify --no-source-maps --public-url ./",
+    "build": "npm run clean && npm run build:parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bensinca/velements.git"
+  },
+  "keywords": [],
+  "author": "Codrops",
+  "license": "MIT",
+  "homepage": "[HOMEPAGE]",
+  "bugs": {
+    "url": "git://github.com/bensinca/velements.git"
+  },
+  "dependencies": {
+    "drag": "0.0.4",
+    "draggabilly": "^2.2.0",
+    "gsap": "^3.5.1",
+    "imagesloaded": "^4.1.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
