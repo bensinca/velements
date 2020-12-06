@@ -26,4 +26,4 @@ npm run build
 
 [MIT](LICENSE)
 
-Made with :blue_heart: by [@benisinca](https://github.com/bensinca/)
+Made with :blue_heart: by [@benisinca](https://www.instagram.com/benisinca/)
