@@ -25,6 +25,6 @@
     "draggabilly": "^2.2.0",
     "gsap": "^3.5.1",
     "imagesloaded": "^4.1.4",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "1.12.3"
   }
 }
