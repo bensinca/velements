@@ -501,6 +501,11 @@ main {
   max-width: 100%;
 }
 
+.gallery.form{
+  width: 100%;
+  display: block;
+}
+
 .js .content__back,
 .js .content__title,
 .js .content__intro,

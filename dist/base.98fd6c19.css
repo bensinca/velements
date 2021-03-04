@@ -1,10 +1,10 @@
 @font-face {
   font-family: "helv";
-  src: url("/HelveticaNeueLTStd-Cn.f662611f.ttf");
+  src: url("HelveticaNeueLTStd-Cn.f662611f.ttf");
 }
 @font-face {
   font-family: "helv-bold";
-  src: url("/HelveticaNeue-CondensedBold.f1be0a60.ttf");
+  src: url("HelveticaNeue-CondensedBold.f1be0a60.ttf");
 }
 
 *,
@@ -501,6 +501,11 @@ main {
   max-width: 100%;
 }
 
+.gallery.form{
+  width: 100%;
+  display: block;
+}
+
 .js .content__back,
 .js .content__title,
 .js .content__intro,
@@ -722,6 +727,3 @@ a.scrollto {
     padding: 0;
   }
 }
-
-
-/*# sourceMappingURL=/base.98fd6c19.css.map */
